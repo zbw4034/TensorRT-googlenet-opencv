@@ -12,7 +12,7 @@ and put images for testing and caffemodel and deploy.prototxt in folder "image" 
 
 3.try to list your testing images in file "test"(this is not a txt!)
 
-4.modify related path and input,output,classes names in main.cpp according to your model
+4.modify related path and input,output,classes names,image mean (in BGR order) in main.cpp according to your model 
 
 5.make all 
 
